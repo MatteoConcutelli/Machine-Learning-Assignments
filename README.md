@@ -8,7 +8,7 @@
 
 ## 🦾 Project 1: Robot Kinematics Learning  
 *Forward/Inverse Kinematics with ML*  
-[[Report]](/Robot Kinematic/HW1_RobotKinematic.pdf) [[Code]](robot_kinematics/)
+[[Report]](/HW1_RobotKinematic.pdf) [[Code]](/Robot Kinematic/notebooks/)
 
 ### Key Features
 - Solved FK for 2DOF/3DOF/5DOF robots using 3 distinct approaches:
